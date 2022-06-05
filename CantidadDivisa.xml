@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Cantidad SYSTEM "CantidadDivisa.dtd">
+
+<Cantidad divisa="dolar">20</Cantidad>
