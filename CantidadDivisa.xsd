@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <xsd:element name="cantidad" type="TipoDeCantidad"/>
-  <xsd:complexType name="TipoDeCantidad">
+  <xsd:element name="Cantidad" type="TipoCantidad"/>
+  <xsd:complexType name="TipoCantidad">
     <xsd:simpleContent>
       <xsd:extension base="xsd:float">
         <xsd:attribute name="Divisa" type="xsd:string" use="required"/>

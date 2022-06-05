@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="CantidadDivisa.xsl" ?>
 <!DOCTYPE Cantidad SYSTEM "CantidadDivisa.dtd">
-
-<Cantidad Divisa="dolar">20</Cantidad>
+<Cantidad Divisa="euro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="CantidadDivisa.xsd">
+ 20
+</Cantidad>
