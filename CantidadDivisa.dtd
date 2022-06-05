@@ -1,2 +1,2 @@
 <!ELEMENT Cantidad (#PCDATA)>
-        <!ATTLIST Cantidad autor CDATA>
+        <!ATTLIST Cantidad Divisa CDATA #REQUIRED>
